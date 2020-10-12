@@ -176,7 +176,6 @@ body {
 
 .store-container-background:hover {
     background-color: #ccc;
-<<<<<<< HEAD
 
 }
 
@@ -186,7 +185,7 @@ body {
     position: absolute;
     z-index: 30;
     top: 10px;
-    left: 900px;
+    left: 860px;
     border-radius: 30px;
     background-color: rgb(236, 142, 104); 
     }
@@ -203,5 +202,3 @@ body {
     }
 
    
-=======
->>>>>>> 7bc1a57f34f8ee823006096ed7bbed072100945d
