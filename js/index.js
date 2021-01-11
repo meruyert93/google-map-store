@@ -13,7 +13,7 @@ function initMap() {
     styles: [
         {
             "featureType": "administrative",
-            "elementType": "labels.text.fill",
+            "elementype": "labels.text.fill",
             "stylers": [
                 {
                     "color": "#444444"
